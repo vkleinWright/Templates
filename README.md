@@ -1,7 +1,7 @@
-## REPO 
+## Templates
 ---------------------------
 
-##### For object associated REPO processing of payroll and associated processes
+##### For Code I want to have handy
 ##### Objects will build in WSCLIB library
 ##### Tables will build in WSCFIL library
 
